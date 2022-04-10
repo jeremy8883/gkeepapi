@@ -1,6 +1,8 @@
 gkeepapi
 ========
 
+Javascript fork of [this Python](https://github.com/kiwiz/gkeepapi) library for Google Keep. It is currently a WIP.
+
 [![Documentation Status](https://readthedocs.org/projects/gkeepapi/badge/?version=latest)](http://gkeepapi.readthedocs.io/en/latest/?badge=latest)
 [![Build Status](https://travis-ci.org/kiwiz/gkeepapi.svg?branch=master)](https://travis-ci.org/kiwiz/gkeepapi)
 [![Gitter chat](https://badges.gitter.im/gkeepapi/Lobby.png)](https://gitter.im/gkeepapi/Lobby)
